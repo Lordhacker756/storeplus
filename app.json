@@ -1,4 +1,5 @@
 {
   "name": "storeplus",
-  "displayName": "storeplus"
+  "displayName": "storeplus",
+  "assetBundlePatterns": ["assets/fonts/*"]
 }
